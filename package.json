@@ -1,0 +1,12 @@
+{
+  "name": "@osten-moove-ui/packages",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {},
+  "engines": {
+    "node": "22.9.0"
+  },
+  "packageManager": "npm@10.8.3"
+}
