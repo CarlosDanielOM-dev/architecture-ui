@@ -18,6 +18,7 @@
     "@osten-moove-ui/button": "*",
     "@osten-moove-ui/button-group": "*",
     "@osten-moove-ui/checkbox": "*",
+    "@osten-moove-ui/floating-action-button": "*",
     "@chromatic-com/storybook": "3.2.2",
     "@storybook/addon-essentials": "8.4.5",
     "@storybook/addon-interactions": "8.4.5",
