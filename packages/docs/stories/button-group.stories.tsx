@@ -63,7 +63,7 @@ export default {
     },
     sx: {
       control: "object",
-      description: "Style overrides using Material UI sx prop.",
+      description: "Custom styles using the sx prop.",
     },
   },
   render: ({ numberOfButtons = 3, ...args }) => {
